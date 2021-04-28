@@ -6,6 +6,7 @@ import WebexSDKAdapter from '../src/WebexSDKAdapter';
 
 let MEETING_ID = null;
 let webexSDKAdapter;
+alert(333);
 
 function handleAudio() {
   webexSDKAdapter.meetingsAdapter.meetingControls['mute-audio'].display(MEETING_ID).subscribe((data) => {
