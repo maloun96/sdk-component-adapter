@@ -62,7 +62,7 @@
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "semantic-release": "^17.3.0"
+    "semantic-release": "^19.0.3"
   },
   "babel": {
     "plugins": [
